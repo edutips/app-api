@@ -1,70 +1,64 @@
-# 👋 Hi, I'm Gobinda Gorai
+# EduTips App Public API Repository
 
-### Founder & CEO at EduTips India Pvt. Ltd.
+> Public JSON resources used for the EduTips ecosystem.
 
-Building AI-powered products that help students make better education and career decisions.
+## 📌 About
 
----
+This repository contains publicly accessible JSON files used by various EduTips applications and services, such as:
 
-## 🚀 About Me
+* 📚 Educational resources
+* 🎓 Scholarships
+* 💼 Jobs & Government Jobs
+* 📝 Entrance Exams
+* 📖 PDF Collections
+* 🎯 Career & Course Information
+* 🔗 Quick Links
+* 🎁 Offers & Public Data
 
-- 🏢 Founder & CEO of **EduTips India Private Limited**
-- 🎓 B.Tech 💙 Passionate about AI, Education, Startups & Technology
-- 🌱 Currently building AI-powered solutions for students across India
-- 💡 Interested in Product Development, Web Technologies, Automation & EdTech
-- 🚀 Love turning ideas into scalable digital products
-
----
-
-## 💼 What I'm Building
-
-### 🎯 EduTips
-
-An AI-powered Career & Education Platform helping students with:
-
-- 📚 Education Guidance
-- 🎓 Scholarships
-- 🏫 Admissions
-- 💼 Career Planning
-- 🤖 AI Career Mentor
-- 📱 Mobile App
-- 🌐 Web Platform
+These files are primarily maintained for transparency, development, testing, and public reference.
 
 ---
 
-## 🛠 Tech Stack
+## ⚠️ Important Notice
 
-- HTML
-- CSS
-- JavaScript
-- WordPress
-- Flutter
-- Firebase
-- PHP
-- MySQL
-- Git & GitHub
-- SEO
-- UI/UX
-- AI Tools
+Although this repository is public, it **is NOT intended to be used as a production API** for third-party applications.
+
+The structure, filenames, URLs, and content may change at any time without prior notice.
+
+Please do **not** build commercial products or services that depend directly on these JSON files.
 
 ---
 
-## 🌎 Connect With Me
+## 🔒 Usage Policy
 
-🌐 Website: https://www.edutips.in
+You may:
 
-📧 Email: admin@edutips.in
+* View the repository
+* Learn from the data structure
+* Fork the repository for educational purposes
+* Submit improvements via Pull Requests
 
-💼 LinkedIn: https://www.linkedin.com/in/gobindagorai
+You may **not**:
+
+* Mirror or redistribute the data as your own API
+* Sell or commercially reuse the content without permission
+* Overload the repository with automated requests
+* Misrepresent EduTips data or branding
 
 ---
 
-## 🚀 Mission
+## 📡 Official Platform
 
-Making quality education and career guidance accessible to every student through technology and AI.
+Website: https://www.edutips.in
+
+For official APIs, integrations, partnerships, or commercial licensing, please contact the EduTips team.
 
 ---
 
-> *"Education should not depend on where a student lives. Technology can bridge that gap."*
+## 📄 License
 
-⭐ Thanks for visiting my profile!
+Unless otherwise specified, all repository content remains the intellectual property of **EduTips India Pvt. Ltd.**
+
+Unauthorized commercial use, redistribution, or branding is prohibited.
+
+© EduTips India Pvt. Ltd. All Rights Reserved.
