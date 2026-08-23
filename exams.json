@@ -1,6 +1,4 @@
-[ 
-     
-     {
+[ {
     "title": "CLAT - National Law Admission 2027",
     "description": "UG BA LLB From Central University",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL-fFW7ixmQK6z75kXQQS50RApHd7qdGbADfRNAQJOrA&s=10",
@@ -13,19 +11,5 @@
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdbTXe2xyjK3E8EXq7CSzPeFSsb7TfUnXVtmKIh0vWIAFkT_wyZ16mT6or&s=10",
     "apply_link": "https://www.edutips.in/nsou-open-admission-2026/",
     "last_date": "2026-08-31"
-  },
-    {
-    "title": "WBCAP 2026 (Phase - 3)",
-    "description": "Special Round for Vacant Seats",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Emblem_of_West_Bengal_%282026%29.png/500px-Emblem_of_West_Bengal_%282026%29.png",
-    "apply_link": "https://www.edutips.in/page/wbcap/",
-    "last_date": "2026-08-08"
-  },
-    {
-    "title": "WB DElEd Admission 2026",
-    "description": "12th Pass, 50% Marks",
-    "image_url": "https://webscte.co.in/assets/image/logo.png",
-    "apply_link": "https://www.edutips.in/wb-deled-admission-2026/",
-    "last_date": "2026-08-07"
   }
 ]
