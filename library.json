@@ -1,0 +1,26 @@
+[
+  {
+    "id": "pdf2",
+    "title": "HS 3rd Sem Routine [Updated]",
+    "description": "উচ্চমাধ্যমিক তৃতীয় সেমিস্টার পরীক্ষার রুটিন!",
+    "cover_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitp7r32MVtKQlQZdphoLsTdvRtaRKF9cG8Bxnh8t3yj-BtwvkfUL33IvsgTTo78xXCcdQMsr6lK614nF0C_L3bK9PKKrVXtbp9RtogcW0rO63GO9_bibD2tpYkGYmFD9gam47Vf9cxHDKBOiEEVjNOmLIKX0Gtnn_hlaVM440E0hEO317rObqAebhi48w/s1600/hs-3rd-semester-bengali-suggestion.jpg",
+    "pdf_url": "https://wbchse.wb.gov.in/wp-content/uploads/2026/09/L-PR-356357-2026.pdf",
+    "allow_download": true
+  },
+    {
+    "id": "pdf3",
+    "title": "WBCHSE Official OMR Sheet PDF",
+    "description": "Latest Sample [with ABCD Set]",
+    "cover_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1K0rgvUtcYQ4wa818kkwTwg1y9ruR0PxzWuYFDkP8veiH3DW2Ec3QDM1usgebBpqEvQxpiqFnC9IrdB-5ncCH1xM3UouNn9-vpNc9YSkdW8xRxxqUdwNdamh637NQV0LsbtTqzAtUO6zouj5v08_W4OpXvNbXkxgKSPsYN3GZwjOEt6kNCJgSx-BxXhU/s1600/hs-3rd-semester-english.jpg",
+    "pdf_url": "https://cdn.edutips.in/storage/hs/new-omr-edutips.pdf",
+    "allow_download": true
+  },
+  {
+    "id": "pdf1",
+    "title": "More Coming Soon..",
+    "description": "All The Best!",
+    "cover_image": "https://play-lh.googleusercontent.com/jCwD8mA26y4_94O4rPZXeTgkZgu1taRw2OG2bqImQ9TTWdNAut5sBMmBZIt06nb_2YY",
+    "pdf_url": "https://cdn.edutips.in/storage/ebook/class12/3rd-sem-english.pdf",
+    "allow_download": false
+  }
+]
