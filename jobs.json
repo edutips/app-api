@@ -1,14 +1,45 @@
 [
    {
+    "title": "Indian Coast Guard",
+    "description": "Recruitment 2026: 365 Vacancy | 10th-12th Pass",
+    "image_url": "https://indiancoastguard.gov.in/themes/custom/icg_dbim/assets/img/icg-crest.png",
+    "apply_link": "https://www.edutips.in/indian-coast-guard-recruitment/",
+    "last_date": "2026-10-21"  },
+    {
+    "title": "Sahitya Akademi, Kolkata",
+    "description": "Ministry of Culture, Government of India",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDn7rQhu62GtWzd_qHs5CSS_d3EtvP6f8eTQhv3vmYFw&s=10",
+    "apply_link": "https://www.edutips.in/sahitya-akademi-recruitment/",
+    "last_date": "2026-10-21"  },
+   {
+    "title": "WBPSC Clerkship 2026",
+    "description": "State Govt. clerk 10th Pass Post",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsHU9iHknHYWMhS00e96Z9Wrfu-VbarI1-Zhb8CCUXIw&s=10",
+    "apply_link": "https://www.edutips.in/wbpsc-clerkship-recruitment-2026/",
+    "last_date": "2026-10-26"},
+   {
+    "title": "NICL Administrative",
+    "description": "National Insurance - Central Govt 321 Vacancy",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1a1wIfwsG9MfJmDfhBEX76fyBnq_puauaEthHCU3B7A&s=10",
+    "apply_link": "https://www.edutips.in/nicl-administrative-officers-recruitment/",
+    "last_date": "2026-10-28"},
+   {
     "title": "RRB NTPC Graduate 2026",
-    "description": "Railway (3477 Vacancy Coming Soon..)",
+    "description": "Railway (3477 Vacancy)",
     "image_url": "https://www.rrbapply.gov.in/assets/images/logo.png",
-    "apply_link": "https://www.edutips.in/rrb-ntpc-graduate-recruitment/"  },
+    "apply_link": "https://www.edutips.in/rrb-ntpc-graduate-recruitment/",
+    "last_date": "2026-11-06"    },
+   {
+    "title": "RRB NTPC Under Graduate 2026",
+    "description": "Railway Job 12th Pass (1688 Vacancy)",
+    "image_url": "https://www.rrbapply.gov.in/assets/images/logo.png",
+    "apply_link": "https://www.edutips.in/rrb-ntpc-under-graduate-recruitment/",
+    "last_date": "2026-11-13"    },
     {
     "title": "Panchyat Recruitment 2026 (Soon..)",
     "description": "Registration Soon through WBPSC (10th/12th/Graduate)",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Emblem_of_West_Bengal_%282026%29.png/500px-Emblem_of_West_Bengal_%282026%29.png",
     "apply_link": "https://www.edutips.in/page/panchayat/",
-    "last_date": "2026-09-30"
+    "last_date": "2026-11-30"
   }
 ]
