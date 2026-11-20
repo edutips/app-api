@@ -1,51 +1,65 @@
 [
-    {
+  {
+    "title": "Aditya Birla Scholarship",
+    "description": "School (11/12), UG, ITI, Diploma - 60% Marks",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjMNdVD5RwYwHK5FjhrBbCFhswdXwIbSTz-N30D0HZYA&s=10",
+    "apply_link": "https://www.edutips.in/aditya-birla-capital-scholarship/",
+    "last_date": "2026-11-22"
+  },
+  {
     "title": "Jagadis Bose National Scholarship",
     "description": "10th/12th Pass - 75% Marks",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-X5AfpBvFJTvidtLAoEsXZuyPo_BIr0LC3dtaQZhQFg&s=10",
     "apply_link": "https://www.edutips.in/jbnst-talent-search-scholarship/",
     "last_date": "2026-11-30"
   },
-   {
+  {
     "title": "TATA Pankh Scholarship",
     "description": "School (9-12), UG, ITI, PG Girls - 60% Marks",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqjmt4yYEacoyBQezoxSgPo5RcJHycFYlf_4jLFxApKw&s=10",
     "apply_link": "https://www.edutips.in/tata-scholarship-2026/",
-    "last_date": "2026-10-26"
-  },
-   {
-    "title": "Aditya Birla Scholarship",
-    "description": "School (11/12), UG, ITI, Diploma - 60% Marks",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjMNdVD5RwYwHK5FjhrBbCFhswdXwIbSTz-N30D0HZYA&s=10",
-    "apply_link": "https://www.edutips.in/aditya-birla-capital-scholarship/",
-    "last_date": "2026-10-30"
-  },
-    {
-    "title": "HDFC Bank Scholarship",
-    "description": "School (I–XII), UG, PG - 55% Marks",
-    "image_url": "https://i.pinimg.com/736x/1e/b4/93/1eb49385575175ab7f541d7000273a1b.jpg",
-    "apply_link": "https://www.edutips.in/hdfc-bank-scholarship/",
-    "last_date": "2026-10-31"
+    "last_date": "2026-11-30"
   },
   {
     "title": "Kotak Kanya Scholarship",
     "description": "12th Pass UG Girls (Professional Courses) - 75% Marks",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyG6BHZKf_Hf4y_KtlEoBOyEkePIWWIGxrjkCZUTm_2g&s=10",
     "apply_link": "https://www.edutips.in/kotak-kanya-scholarship-2026/",
-    "last_date": "2026-11-15"
-  },
-  {
-    "title": "Hero Ramat Kant Scholarship",
-    "description": "12th Pass - 80% Marks",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP3jLFmbOg0lXLhwfOwNxHP3nFqm54A9nPxCuky6733kvEucZ_1gyymGA&s=10",
-    "apply_link": "https://www.edutips.in/hero-raman-kant-scholarship-2026/",
-    "last_date": "2026-10-30"
+    "last_date": "2026-11-30"
   },
   {
     "title": "Sitaram Jindal Scholarship",
     "description": "10th Pass, 12th Pass, UG PG 75% Marks",
     "image_url": "https://app.sitaramjindalfoundation.org/Assets/Images/Logo/SJF-removebg-preview.png",
     "apply_link": "https://www.edutips.in/sitaram-jindal-scholarship-2026/",
-    "last_date": "2026-10-30"
+    "last_date": "2026-11-30"
+  },
+  {
+    "title": "NextGen Edu Scholarship",
+    "description": "Class 11 Students - 60% Marks in Class 10",
+    "image_url": "https://d2w7l1p59qkl0r.cloudfront.net/static/scholarship_logo/logo_24333_1726656455.png",
+    "apply_link": "https://www.buddy4study.com/page/nextgen-edu-scholarship",
+    "last_date": "2026-11-30"
+  },
+  {
+    "title": "Rolls-Royce Wings4Her Scholarship",
+    "description": "UG Girls (Engineering/B.Tech) - 60% Marks",
+    "image_url": "https://d2w7l1p59qkl0r.cloudfront.net/static/scholarship_logo/logo_24305_1726223821.png",
+    "apply_link": "https://www.buddy4study.com/page/rolls-royce-wings4her-scholarship-for-women-engineering-students",
+    "last_date": "2026-11-30"
+  },
+  {
+    "title": "HDFC Bank Scholarship",
+    "description": "School (I–XII), UG, PG - 55% Marks",
+    "image_url": "https://i.pinimg.com/736x/1e/b4/93/1eb49385575175ab7f541d7000273a1b.jpg",
+    "apply_link": "https://www.edutips.in/hdfc-bank-scholarship/",
+    "last_date": "2026-12-15"
+  },
+  {
+    "title": "Vylor Agritech Scholarship Program",
+    "description": "UG Students (Agriculture / Agritech) - 60% Marks",
+    "image_url": "https://d2w7l1p59qkl0r.cloudfront.net/static/scholarship_logo/logo_24412_1727435110.png",
+    "apply_link": "https://www.buddy4study.com/page/vylor-agritech-scholarship-program",
+    "last_date": "2026-12-15"
   }
 ]
